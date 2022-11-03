@@ -1,5 +1,7 @@
 # ✨ Craig's MCA Project ✨
 
+Week 1 | Weeks 2&3 | Week 4 | Week 5 | Week 7 | Week 8 | Week 9 | Week 10 |
+
 ## Week 1 Tasks
 
 ### Question 1 
