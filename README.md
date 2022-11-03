@@ -2,7 +2,7 @@
 
 [Week 1](https://craigmoffatt.github.io/MCA-2022/) | [Weeks 2&3](https://craigmoffatt.github.io/MCA-2022/verovio.html) | [Week 4](https://craigmoffatt.github.io/MCA-2022/Week_4/Week4.html/) | [Week 5](https://craigmoffatt.github.io/MCA-2022/Week_5/Week5.html/) | [Week 7](https://craigmoffatt.github.io/MCA-2022/Week_7/Week7.html/) | [Week 8](https://craigmoffatt.github.io/MCA-2022/Week_8/Week8.html/) | [Week 9](https://craigmoffatt.github.io/MCA-2022/Week_9/Week9.html/) | [Week 10](https://craigmoffatt.github.io/MCA-2022/Week_10/Week10.html/) |
 
-Note: All Weeks can be accessed through the table of links presented above, however, if you so desire to go through each section of the website in order, links to the next section intended to be viewed will be provided at the bottom of each page
+All Weeks can be accessed through the table of links presented above, however, if you so desire to go through each section of the website in order, links to the next section intended to be viewed will be provided at the bottom of each page
 
 ## Week 1 Tasks
 
