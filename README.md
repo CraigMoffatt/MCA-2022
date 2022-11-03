@@ -10,6 +10,8 @@ All Weeks can be accessed through the table of links presented above, however, i
 
 The focus of my dataset will be the hit musical _Six:The Musical_ written by Toby Marlow and Lucy Moss. First premiered at the Edinburgh Fringe in 2017, the musical has swept the world as a hit phenomenon. Winning multiple awards the musical tells the stories of the six wives of King Henry VIII from their perspective and is about them reclaiming their stories. The musical is a lesson in both history and girl power and is a fun, enjoyable for anyone to enjoy!
 
+![Six](https://user-images.githubusercontent.com/113994036/199851776-6014d4c6-760f-4308-80f3-0a2841b3a383.png)
+
 ### Question 2 
 
 Based on my own previous experiences, I do believe that many different challenges exist when collecting and working with music and music data. First of all, there is a strong chance you will find many conflicting opininos and answers to just about anything within datasets, both humans and programmes will all collect data within different ways and sometimes will come out with different answers and responses to what is given. Secondly dependent on the date of the piece you are trying to work on certain data surrounding what your looking for might not exist, for example if your piece is too modern, or too old certain details that you might be looking for might not be able to be found 
