@@ -5,8 +5,12 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title />
-            <respStmt />
+            <title>*Six* from *Six:The Musical*</title>
+            <author>Written by Toby Marlow and Lucy Moss</author>
+            <date>First performed in 2017, currently running in the London's Vaudeville Theatre</date>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <resp>Craig Moffatt</resp>
          </titleStmt>
          <pubStmt><date isodate="2022-10-06" type="encoding-date">2022-10-06</date>
          </pubStmt>
