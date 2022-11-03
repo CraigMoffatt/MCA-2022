@@ -1,6 +1,6 @@
 # ✨ Craig's MCA Project ✨
 
-[Week 1](https://craigmoffatt.github.io/MCA-2022/) | Weeks 2&3 | Week 4 | Week 5 | Week 7 | Week 8 | Week 9 | Week 10 |
+[Week 1](https://craigmoffatt.github.io/MCA-2022/) | [Weeks 2&3](https://craigmoffatt.github.io/MCA-2022/verovio.html) | Week 4 | Week 5 | Week 7 | Week 8 | Week 9 | Week 10 |
 
 ## Week 1 Tasks
 
