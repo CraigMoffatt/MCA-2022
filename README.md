@@ -2,6 +2,8 @@
 
 [Week 1](https://craigmoffatt.github.io/MCA-2022/) | [Weeks 2&3](https://craigmoffatt.github.io/MCA-2022/verovio.html) | Week 4 | Week 5 | Week 7 | Week 8 | Week 9 | Week 10 |
 
+Note: All Weeks can be accessed through the table of links presented above, however, if you so desire to go through each section of the website in order, links to the next section intended to be viewed will be provided at the bottom of each page
+
 ## Week 1 Tasks
 
 ### Question 1 
