@@ -16,6 +16,6 @@ Based on my own previous experiences, I do believe that many different challenge
 
 In regards to my chosen data set, I believe I will encounter both of these problems, moreso encountering the second issue. _Six: The Musical_ is a fairly new musical, only coming to London's west end in the last 5 years, so i believe that some of the data that I try to find might be a bit more difficult to come back but not impossible. However compared to musicals such as _Phantom of the Opera_ and _Funny Girl_, a lot of my data will require a lot of in depth searching 
 
-**Next Section:**
+**Next:**
 
 [Weeks 2&3](https://craigmoffatt.github.io/MCA-2022/verovio.html)
