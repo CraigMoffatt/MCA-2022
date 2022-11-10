@@ -36,3 +36,11 @@ If you also desire, you can download my transcription of the score here!
 ![Score pg2](https://user-images.githubusercontent.com/113994036/201171520-bcd49580-db08-49b7-aaa5-336f417c4cfa.PNG)
 
 ![Score pg3](https://user-images.githubusercontent.com/113994036/201171532-34bd17ed-8a87-418b-bd27-e9024c922c32.PNG)
+
+## Week 3 Tasks 
+
+This weeks task required me to take my score from last week, export it to both a MusicXML file and a MEI file, with taking the MEI file further into the Verovio editor.
+
+Once completing this, I was tasked to compare three differences between MusicXML documentation and MEI documentation. 
+
+The Results of these tasks can be found [here](https://craigmoffatt.github.io/MCA-2022/verovio.html)
