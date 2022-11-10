@@ -19,6 +19,20 @@ Based on my own previous experiences, I do believe that many different challenge
 
 In regards to my chosen data set, I believe I will encounter both of these problems, moreso encountering the second issue. _Six: The Musical_ is a fairly new musical, only coming to London's west end in the last 5 years, so i believe that some of the data that I try to find might be a bit more difficult to come back but not impossible. However compared to musicals such as _Phantom of the Opera_ and _Funny Girl_, a lot of my data will require a lot of in depth searching 
 
-**Next:**
 
-[Weeks 2&3](https://craigmoffatt.github.io/MCA-2022/verovio.html)
+
+## Week 2 Tasks
+
+This weeks class tasked me with the task of identifying a piece of music from my dataset and downloading it as a PDF and then converting it into a musescore file, and then correcting any corrections that the converter may have had. Now as stated above my dataset is still fairly new, so I knew that I would struggle to find a free score online that was accurate to that of the actual musical. Thankfully I personally own the official book of sheet music sold on the website of the *Six:The Musical* which provides the vocal and piano sheet music for each of the queens individual songs, plus the opening track, the title track, and *Haus of Holbein*.
+
+Now instead of downloading a million and one PDFs that may have been incorrect, I instead scanned in the first 2 pages of the sheet music for the title track *Six*, pasted the images into a word document and then converted that into a PDF. After a little messing around with the brightness of the scanned imagies, I was then able to convert this into a Musescore file.
+
+Posted below are screenshots from the musescore file of the first 27 bars of *Six*. I chose this piece in particular as the beginning of the piece is very interesting and probably one of the most detailed out of all of the pieces within my book. It involves a tempo change at bar 11 changing from the slow lyrical opening to the upbeat pop song that the rest of the track is. It also features harmonies between the performers and gives each of the performers a couple of words to sing before coming together to create these harmonies. Finally once the tempo changes and before the individual lyrics for each of the performers start, the piano has a chance to shine, performing a complicated chord rhythm that when actually performed live is performed on the guitar as well (if not solely) and then proceeds to play a strong bass note on every beat consisting of two A flats an octave apart. To me this almost resembles a bass drum.
+
+If you also desire, you can download my transcription of the score here!
+
+![Score pg 1](https://user-images.githubusercontent.com/113994036/201171490-4e684464-76d4-4f0c-bca8-c296a9c47c91.PNG)
+
+![Score pg2](https://user-images.githubusercontent.com/113994036/201171520-bcd49580-db08-49b7-aaa5-336f417c4cfa.PNG)
+
+![Score pg3](https://user-images.githubusercontent.com/113994036/201171532-34bd17ed-8a87-418b-bd27-e9024c922c32.PNG)
