@@ -44,3 +44,91 @@ This weeks task required me to take my score from last week, export it to both a
 Once completing this, I was tasked to compare three differences between MusicXML documentation and MEI documentation. 
 
 The Results of these tasks can be found [here](https://craigmoffatt.github.io/MCA-2022/verovio.html)
+
+## Week 4 Tasks
+
+### Task 1 
+
+My first task this week was to create a jSymbloic analysis of my piece, selecting a group of features for the programme to anaylse within the notated data of my piece 
+
+The results of this task are shown below 
+
+Feature|Result
+--------------|-----------------
+Pitch Class Histogram 0| 0.3481
+Pitch Class Histogram 1| 0
+Pitch Class Histogram 2| 0.08654
+Pitch Class Histogram 3| 0
+Pitch Class Histogram 4| 0.1365
+Pitch Class Histogram 5| 0.1019
+Pitch Class Histogram 6| 0
+Pitch Class Histogram 7| 0.1692
+Pitch Class Histogram 8| 0
+Pitch Class Histogram 9| 0.1308
+Pitch Class Histogram 10| 0
+Pitch Class Histogram 11| 0.02692
+Number of Pitches| 24
+Number of Pitch Classes| 7
+Range| 48
+Strong Tonal Centres| 2
+Mean Pitch| 60.58
+Mean Pitch Class| 4.994
+Most Common Pitch| 63
+Most Common Pitch Class| 3
+Interval Between Most Prevelant Pitches| 12
+Pitch Variability| 10.19
+Most Common Melodic Interval| 0
+Repeated Notes| 0.2215
+Melodic Thirds| 0.1368
+Melodic Perfect Fourths| 0.09446
+Melodic Tritones| 0
+Melodic Perfect Fifths| 0.09121
+Melodic Sixths| 0.1954
+Melodic Sevenths| 0.03909
+Melodic Octaves| 0.0684
+Melodic Large Intervals| 0.009772
+Most Common Vertical Interval| 0
+Vertical Unisons| 0.03288
+Vertical Minor Seconds| 0.00475
+Vertical Thirds| 0.2328
+Vertical Tritones| 0.000775
+Vertical Perfect Fourths| 0.1437
+Vertical Perfect Fifths| 0.1757
+Vertical Sixths| 0.1282
+Vertical Seveneths| 0.02043
+Vertical Octaves| 0.2246
+Perfect Vertical Intervals| 0.5768
+Diminished and Augmented Triads| 0
+Dominant Sevenths Chords| 0.01142
+Seventh Chords| 0.09979
+Mean Tempo| 112.4
+
+All the data presented above comes from the feature values that I selected before instructing jSymbolic to run an analysis of my piece. I chose these features as I beleived they were the most interesting to look at, most of what I have selected require looking at the melodic features and harmonies of my piece and from trying to make sense of these I created feautes that were grouped into graphs, which are pasted below.
+
+![image](https://user-images.githubusercontent.com/113994036/201692141-e1bf7d1b-d39c-4833-bdbe-c6bd82d77f31.png)
+(Figure 4.1 - Pitch Class Histogram)
+
+![image](https://user-images.githubusercontent.com/113994036/201692077-eeac5593-4ca8-4d27-b27c-1e87934a1a7a.png)
+(Figure 4.2 - Melodic Intervals)
+
+![image](https://user-images.githubusercontent.com/113994036/201691952-0998e65d-f5aa-48f4-8494-d2af8b70df74.png)
+(Figure 4.3 - Vertical Intervals)
+
+Figure 4.1 shows a Pitch Class Histogram of my piece. What we can understand from this is that within the analysis jSymbolic picked up that there are no sharps or flats in my piece, as the Numbers 0-11 go from C to B within the melodic scale, C=0 C sharp/D flat=1 D=2 etc. 
+
+However, I do believe that jSymbolic has analysed this incorrectly. If you look back to the score posted in the week 2 tasks, you can see that my piece is in the key of E flat major which has 3 flats in the scale, being B, E and A - All of these notes feature in my piece according to my pitch class histogram however they have not registered as being flattened
+
+### Task 2
+
+The second task this week was to use python notebook to create further graphs of my piece using music21. 
+
+![Music21 Graphy](https://user-images.githubusercontent.com/113994036/201697241-f595eda6-8336-4745-8484-a83dfdf17732.png)
+(Figure 4.4 - Music21 Graph)
+
+![My Scatter Plot](https://user-images.githubusercontent.com/113994036/201697252-4cd7ab49-8ad6-47c9-bc89-5aa1ee2ec3dd.png)
+(Figure 4.5 - Scatter Plot)
+
+![Note Quarter Length by Pitch](https://user-images.githubusercontent.com/113994036/201697269-35e6dc29-9693-4ebf-bba6-46e14a747c86.png)
+(Figure 4.6 - Note Quarter Length By Pitch)
+
+ANALYSE!!!
