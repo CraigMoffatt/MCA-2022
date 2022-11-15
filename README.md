@@ -165,4 +165,24 @@ Bits per sample| 32| 32| 32|
 
 ### Task 2 
 
-For the second task this week, 
+For the second task this week, I was tasked to take the waveform file that was created from Sonic Visualiser for each of the pieces and save them as an image, after this I created a spectrogram of each piece to then export to GitHub, the results of which are shown below
+
+![No Way Waveform](https://user-images.githubusercontent.com/113994036/201958923-eb3f57fd-031d-4875-8bc0-4a1053be6e0e.png)
+(Figure 8.1 - No Way Waveform)
+
+![No Way Spectrogram(2)](https://user-images.githubusercontent.com/113994036/201961038-a8b237c1-80da-4d1d-b214-599cc02b5af2.png)
+(Figure 8.2 - No Way Spectrogram)
+
+![Heart of Stone Waveform](https://user-images.githubusercontent.com/113994036/201959128-a22ff02e-c27c-43cf-b9e6-f1085e219d27.png)
+(Figure 8.3 - Heart of Stone Waveform)
+
+![Heart of Stone Spectrogram(3)](https://user-images.githubusercontent.com/113994036/201960137-e3714df1-8f58-4776-9dfc-9f1472064763.png)
+(Figure 8.4 - Heart of Stone Spectrogram)
+
+![All you wanna do Waveform](https://user-images.githubusercontent.com/113994036/201958873-14b26f73-9de9-4959-a7bc-6ff14167e6f5.png)
+(Figure 8.5 - All You Wanna Do Waveform)
+
+![All you wanna do Spectrogram(2)](https://user-images.githubusercontent.com/113994036/201961551-4e9f3d16-bd15-4b22-950d-8de020d21730.png)
+(Figure 8.6 - All You Wanna Do Spectrogram)
+
+
