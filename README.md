@@ -132,3 +132,37 @@ The second task this week was to use python notebook to create further graphs of
 (Figure 4.6 - Note Quarter Length By Pitch)
 
 ANALYSE!!!
+
+## Week 5
+
+## Week 7
+
+## Week 8
+
+### Task 1 
+
+This week, I was first tasked to download three tracks relating to my dataset - The three tracks I chose came from the studio cast recording album which was the first recorded versions to be released on streaming services. My tracks consist of No Way, Heart of Stone, and All You Wanna Do - The mp3 tracks were downloaded from Amazon Music 
+
+I chose each of these songs as they each have a different sound and style to them - No Way is the track within the show that has a lot of more Spanish style and features heavily on the drumming, even giving the drummer a solo in the middle of the track, sang by Catherine of Aragon. Heart of Stone is one of the two Ballads in the show sang by Jane Seymour, it stays the same tempo throughout the entirity of the track and is the song that provides pure raw emotion in the vocals. Finally, All You Wanna Do is the very heavy pop song of the show sang by the character of Katherine Howard
+
+To further emphasise this within the programme for the show, it states which artists that each characters style and vocals are inspired by. Catherine of Aragon is inspired by Shakira and Beyonce, Jane Seymour is inspired by, Katherine Howard is inspired by Ariana Grande and Britney Spears
+
+
+After downloading these tracks, I created a table consisting of all the important technical and non-technical metadata associated with my tracks, the results of which are pasted below:
+
+Metadata Title| Track 1| Track 2| Track 3|
+--------------|--------|--------|--------|
+Title| No Way| Heart of Stone| All You Wanna Do|
+Artist| SIX, Renée Lamb| SIX, Natalie May Paris| SIX, Aimie Atkinson|
+Composer| Lucy Moss, Toby Marlow| Lucy Moss, Toby Marlow| Lucy Moss, Toby Marlow|
+Copyright Info| FIND THIS| FIND THIS| FIND THIS|
+Genre| Musical Theatre| Musical Theatre| Musical Theatre|
+Source| 6 Music Ltd a division of Loudmouth, under exclusive license from Ex-Wives Ltd| 6 Music Ltd a division of Loudmouth, under exclusive license from Ex-Wives Ltd| 6 Music Ltd a division of Loudmouth, under exclusive license from Ex-Wives Ltd|
+File/Audio Format| MP3| MP3| MP3|
+Sample Rate| 44100Hz| 44100Hz| 44100Hz|
+Bits per second| 192 kb/s| 192 kb/s| 192 kb/sZ|
+Bits per sample| 32| 32| 32|
+
+### Task 2 
+
+For the second task this week, 
