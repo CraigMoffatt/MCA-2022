@@ -155,6 +155,12 @@ For the first task this week, I was tasked to create a metadata schema by listin
 
 ### Task 2
 
+For the second task this week, I was asked to take that metadata schema created from task 1, and to modify my MEI document in GitHub
+
+The additions to my MEI file can be found below:
+![WEEK 5 Task](https://user-images.githubusercontent.com/113994036/202449516-c6869520-b112-40b2-8b22-3344bd23cea7.PNG)
+(Figure 5.1 - MEI additions)
+
 ## Week 7
 
 ## Week 8
