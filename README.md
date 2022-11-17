@@ -112,12 +112,15 @@ Mean Tempo| 112.4
 All the data presented above comes from the feature values that I selected before instructing jSymbolic to run an analysis of my piece. I chose these features as I beleived they were the most interesting to look at, most of what I have selected require looking at the melodic features and harmonies of my piece and from trying to make sense of these I created feautes that were grouped into graphs, which are pasted below.
 
 ![image](https://user-images.githubusercontent.com/113994036/201692141-e1bf7d1b-d39c-4833-bdbe-c6bd82d77f31.png)
+
 (Figure 4.1 - Pitch Class Histogram)
 
 ![image](https://user-images.githubusercontent.com/113994036/201692077-eeac5593-4ca8-4d27-b27c-1e87934a1a7a.png)
+
 (Figure 4.2 - Melodic Intervals)
 
 ![image](https://user-images.githubusercontent.com/113994036/201691952-0998e65d-f5aa-48f4-8494-d2af8b70df74.png)
+
 (Figure 4.3 - Vertical Intervals)
 
 Figure 4.1 shows a Pitch Class Histogram of my piece. What we can understand from this is that within the analysis jSymbolic picked up that there are no sharps or flats in my piece, as the Numbers 0-11 go from C to B within the melodic scale, C=0 C sharp/D flat=1 D=2 etc. 
@@ -129,12 +132,15 @@ However, I do believe that jSymbolic has analysed this incorrectly. If you look 
 The second task this week was to use python notebook to create further graphs of my piece using music21. 
 
 ![Music21 Graphy](https://user-images.githubusercontent.com/113994036/201697241-f595eda6-8336-4745-8484-a83dfdf17732.png)
+
 (Figure 4.4 - Music21 Graph)
 
 ![My Scatter Plot](https://user-images.githubusercontent.com/113994036/201697252-4cd7ab49-8ad6-47c9-bc89-5aa1ee2ec3dd.png)
+
 (Figure 4.5 - Scatter Plot)
 
 ![Note Quarter Length by Pitch](https://user-images.githubusercontent.com/113994036/201697269-35e6dc29-9693-4ebf-bba6-46e14a747c86.png)
+
 (Figure 4.6 - Note Quarter Length By Pitch)
 
 ANALYSE!!!
