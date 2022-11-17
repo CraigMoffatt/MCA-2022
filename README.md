@@ -11,7 +11,7 @@ All Weeks can be accessed through the table of links presented above, however, i
 The focus of my dataset will be the hit musical _Six:The Musical_ written by Toby Marlow and Lucy Moss. First premiered at the Edinburgh Fringe in 2017, the musical has swept the world as a hit phenomenon. Winning multiple awards the musical tells the stories of the six wives of King Henry VIII from their perspective and is about them reclaiming their stories. The musical is a lesson in both history and girl power and is a fun, enjoyable for anyone to enjoy!
 
 ![Six](https://user-images.githubusercontent.com/113994036/199851776-6014d4c6-760f-4308-80f3-0a2841b3a383.png)
-Screenshot taken from the [*Six:The Musical*](https://www.sixthemusical.com/) website
+(Figure 1.1 - *Six:The Musical* website) Screenshot taken from the [*Six:The Musical*](https://www.sixthemusical.com/) website
 
 ### Question 2 
 
@@ -33,9 +33,15 @@ If you also desire, you can download my transcription of the score here!
 
 ![Score pg 1](https://user-images.githubusercontent.com/113994036/201171490-4e684464-76d4-4f0c-bca8-c296a9c47c91.PNG)
 
+(Figure 2.1 - Transcription pg.1)
+
 ![Score pg2](https://user-images.githubusercontent.com/113994036/201171520-bcd49580-db08-49b7-aaa5-336f417c4cfa.PNG)
 
+(Figure 2.2 - Transcription pg.2)
+
 ![Score pg3](https://user-images.githubusercontent.com/113994036/201171532-34bd17ed-8a87-418b-bd27-e9024c922c32.PNG)
+
+(Figure 2.3 - Transcription pg.3)
 
 ## Week 3 Tasks 
 
