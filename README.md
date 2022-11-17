@@ -193,7 +193,7 @@ Metadata Title| Track 1| Track 2| Track 3|
 Title| No Way| Heart of Stone| All You Wanna Do|
 Artist| SIX, Renée Lamb| SIX, Natalie May Paris| SIX, Aimie Atkinson|
 Composer| Lucy Moss, Toby Marlow| Lucy Moss, Toby Marlow| Lucy Moss, Toby Marlow|
-Copyright Info| FIND THIS| FIND THIS| FIND THIS|
+Copyright Info| All rights reserved| All rights reserved| All rights reserved|
 Genre| Musical Theatre| Musical Theatre| Musical Theatre|
 Source| 6 Music Ltd a division of Loudmouth, under exclusive license from Ex-Wives Ltd| 6 Music Ltd a division of Loudmouth, under exclusive license from Ex-Wives Ltd| 6 Music Ltd a division of Loudmouth, under exclusive license from Ex-Wives Ltd|
 File/Audio Format| MP3| MP3| MP3|
