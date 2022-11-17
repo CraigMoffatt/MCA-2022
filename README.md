@@ -135,6 +135,26 @@ ANALYSE!!!
 
 ## Week 5
 
+### Task 1
+
+For the first task this week, I was tasked to create a metadata schema by listing the most important elements to my dataset, now as my dataset only contains a total of 9 tracks, I am slightly limited in numbers. However, if I were to put these all into my GitHub website, these are the details that I would encode as I believe that they would be the most important details
+
+**Title** - The title of the track from the musical
+
+**Author** - The author of the track - for my dataset, I believe that all of them have the same author, however it would still be worth including in the coding as to give credit to the writer
+
+**Composer** - This follows the same trend as the author, I believe that they both have the same answers, so it would be up to the encoder which one they choose if not both
+
+**Encoder** - The person encoding the file
+
+**Date** - The data of the encoding and publication
+
+**Size** - The size of the file to anyone wanting to download it
+
+**Cast List** - As my piece is from a piece of musical theatre, I would include which characters performs the particular song, all of the pieces in my dataset are performed by all Six characters, however the balance is different in each of the songs, with some being performed by all of them together, and some being performed by one particular character with the other five providing back up vocals
+
+### Task 2
+
 ## Week 7
 
 ## Week 8
