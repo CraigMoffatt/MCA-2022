@@ -139,8 +139,6 @@ The second task this week was to use python notebook to create further graphs of
 
 (Figure 4.6 - Note Quarter Length By Pitch)
 
-ANALYSE!!!
-
 ## Week 5
 
 ### Task 1
@@ -218,5 +216,32 @@ For the second task this week, I was tasked to take the waveform file that was c
 
 ![All you wanna do Spectrogram(2)](https://user-images.githubusercontent.com/113994036/201961551-4e9f3d16-bd15-4b22-950d-8de020d21730.png)
 (Figure 8.6 - All You Wanna Do Spectrogram)
+
+## Week 9
+
+### Task 1 
+
+This weeks first task was to take 30 second segments of pieces from our dataset and to create three panes to go alongside the waveform: a spectrogram, a Chromogram and a Mel Frequency Cepstral Coefficiants, using plugins for Sonic Visualiser
+
+The results of which are shown below:
+
+![No Way](https://user-images.githubusercontent.com/113994036/203315444-8fb2e55f-52c0-494e-99f9-9a0fe535ccb8.PNG)
+(Figure 9.1 - No Way)
+
+![Heart of Stone](https://user-images.githubusercontent.com/113994036/203315407-e30c5277-ae58-433f-86b1-736411feb21d.PNG)
+(Figure 9.2 - Heart of Stone)
+
+
+![All you Wanna Do](https://user-images.githubusercontent.com/113994036/203315387-2c87df39-81b0-4436-bbbc-a51781ba8019.PNG)
+(Figure 9.3 - All You Wanna Do)
+
+### Task 2
+
+The second task this week was to use Jupyter Notebook to create histograms from the CSV files that we extracted from the Chromogram and Mel Frequency Cepstral Coefficiants pane
+
+The results of which are shown below:
+
+
+
 
 
