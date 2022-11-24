@@ -262,4 +262,28 @@ At a first glance, the histograms do not scream or highlight anything of signifi
 
 
 
+## Week 10
+
+### Task 1
+
+The first task this week was to use more python coding on Jupyter notebook to create similarity matrix's for the chromagrams of our three pieces. After replacing tracks 7-9 from the group lab on Tuesday, Jupyter gave out 2 similarity matrix's, shown below:
+
+![Similarity Matrix 1](https://user-images.githubusercontent.com/113994036/203806160-e2ccde01-5149-4aca-a16f-18d06d6ab02c.PNG)
+![Similarity Matrix 2](https://user-images.githubusercontent.com/113994036/203806162-5bf1f0d9-aa2b-4ad1-b2dc-7754ed579266.PNG)
+(Figure 10.1 - Similarity Matrix's)
+
+
+### Task 2 
+
+The Final task was to create a WAV file of the score that I transcribed in Week 2, after that I took the file into sonic visualiser and created a transcription on there from the file. After doing that I exported the annotated layer as a MIDI file and had musescore transcribe that. 
+
+During the task I encountered the issue that my piece was too big for the software to transcribe, so a segment of the first 30 seconds of my piece has been taken and transcribed.
+
+The original first page and the transcription can be found below: 
+
+![Score pg 1](https://user-images.githubusercontent.com/113994036/203806601-23802832-93f6-4580-8259-cb7723d2841c.PNG)
+(Figure 10.2 - pg.1)
+
+![sixexcerpt-1](https://user-images.githubusercontent.com/113994036/203806408-c02c5169-16ba-4240-a555-113c182fc0e7.png)
+(Figure 10.3 - Transcription)
 
