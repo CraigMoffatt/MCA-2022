@@ -282,6 +282,7 @@ During the task I encountered the issue that my piece was too big for the softwa
 The original first page and the transcription can be found below: 
 
 ![Score pg 1](https://user-images.githubusercontent.com/113994036/203806601-23802832-93f6-4580-8259-cb7723d2841c.PNG)
+
 (Figure 10.2 - pg.1)
 
 ![sixexcerpt-1](https://user-images.githubusercontent.com/113994036/203806408-c02c5169-16ba-4240-a555-113c182fc0e7.png)
