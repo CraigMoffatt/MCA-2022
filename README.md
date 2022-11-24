@@ -217,6 +217,8 @@ For the second task this week, I was tasked to take the waveform file that was c
 ![All you wanna do Spectrogram(2)](https://user-images.githubusercontent.com/113994036/201961551-4e9f3d16-bd15-4b22-950d-8de020d21730.png)
 (Figure 8.6 - All You Wanna Do Spectrogram)
 
+An advantange to time frequency analysis over waveform analysis would be that you can read the tempo, pitch and rhythm, if you look at the spectrograms for each of the tracks, you can see which notes occur more frequently and you can see how quickly they appear, from how red (a lot) or green (a little) the graph is at the specific point you are looking for. For example, if you look at All You Wanna Do (Figure 8.6) you can see that a lot of red appears very very quickly, my assumption is this is to do with how quick the piece is itself. Whereas if you compare it to Heart of Stone (Figure 8.4) you can see the amount of red drops immensely 
+
 ## Week 9
 
 ### Task 1 
