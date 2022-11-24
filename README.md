@@ -237,9 +237,24 @@ The results of which are shown below:
 
 ### Task 2
 
-The second task this week was to use Jupyter Notebook to create histograms from the CSV files that we extracted from the Chromogram and Mel Frequency Cepstral Coefficiants pane
+The second task this week was to use Jupyter Notebook to create histograms from the CSV files that we extracted from the Mel Frequency Cepstral Coefficiants pane
 
 The results of which are shown below:
+
+![No Way Histograms](https://user-images.githubusercontent.com/113994036/203784498-c35d0c2a-6b79-4e53-916d-afed316259e0.PNG)
+
+(Figure 9.4 - No Way)
+
+![Heart of Stone Histograms](https://user-images.githubusercontent.com/113994036/203784494-8dbad64b-256b-4ee8-8454-c1a515d133f1.PNG)
+
+(Figure 9.5 - Heart of Stone)
+
+
+![All You Wanna Do Histograms](https://user-images.githubusercontent.com/113994036/203784491-3123151a-cf3c-41fa-9a03-f2750b7491a9.PNG)
+
+(Figure 9.6 - All You Wanna Do)
+
+
 
 
 
