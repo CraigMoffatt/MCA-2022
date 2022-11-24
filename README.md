@@ -254,8 +254,7 @@ The results of which are shown below:
 
 (Figure 9.6 - All You Wanna Do)
 
-
-
+At a first glance, the histograms do not scream or highlight anything of significance. However, if you look at the histogram for All You Wanna Do, and No way you can see that the shapes of all the histograms are similar to each other. Even if the numbers are different the general shape follows the same trend. The same is somewhat true for Heart of Stone, with the exception of histograms: 0, 1 and 4. Where the histograms change their shape slightly. This does not scream anything with massive significance, other than what the frequency of the notes might be. However, looking at this for data such as the genre or the tempo of the piece, the data is very limited.
 
 
 
