@@ -9,6 +9,7 @@ The focus of my dataset will be the hit musical _Six:The Musical_ written by Tob
 ![Six](https://user-images.githubusercontent.com/113994036/199851776-6014d4c6-760f-4308-80f3-0a2841b3a383.png)
 (Figure 1.1 - *Six:The Musical* website) Screenshot taken from the [*Six:The Musical*](https://www.sixthemusical.com/) website
 
+
 ### Question 2 
 
 Based on my own previous experiences, I do believe that many different challenges exist when collecting and working with music and music data. First of all, there is a strong chance you will find many conflicting opininos and answers to just about anything within datasets, both humans and programmes will all collect data within different ways and sometimes will come out with different answers and responses to what is given. Secondly dependent on the date of the piece you are trying to work on certain data surrounding what your looking for might not exist, for example if your piece is too modern, or too old certain details that you might be looking for might not be able to be found 
@@ -218,6 +219,7 @@ For the second task this week, I was tasked to take the waveform file that was c
 (Figure 8.6 - All You Wanna Do Spectrogram)
 
 An advantange to time frequency analysis over waveform analysis would be that you can read the tempo, pitch and rhythm, if you look at the spectrograms for each of the tracks, you can see which notes occur more frequently and you can see how quickly they appear, from how red (a lot) or green (a little) the graph is at the specific point you are looking for. For example, if you look at All You Wanna Do (Figure 8.6) you can see that a lot of red appears very very quickly, my assumption is this is to do with how quick the piece is itself. Whereas if you compare it to Heart of Stone (Figure 8.4) you can see the amount of red drops immensely 
+
 
 ## Week 9
 
