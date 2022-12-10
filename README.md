@@ -170,6 +170,13 @@ The additions to my MEI file can be found below:
 
 ## Week 7
 
+This week I was tasked with creating a second version of my MEI file from week 3 with the encoded metadata from week 5. From there I uploaded the new document to GitHub.
+
+A screenshot of the result is posted below and you can find the link to the score [here](https://craigmoffatt.github.io/MCA-2022/myMeta.html)
+
+![image](https://user-images.githubusercontent.com/113994036/206868084-ec2f675c-b726-4f6d-b830-52ebdb5edb1c.png)
+(Figure 7.1 - Updated Score)
+
 ## Week 8
 
 ### Task 1 
