@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Six from Six:The Musical</title>
+            <author>Written by Toby Marlow and Lucy Moss</author>
+            <date>First performed in 2017, currently running in the London's Vaudeville Theatre</date>
+            <contributor>Produced by George Stiles, Joe Beighton, Lucy Moss, Sam Featherstone, Toby Marlow, Tom Curan</contributor>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <resp>Craig Moffatt</resp>
+            </respStmt>
+         </titleStmt>
+         <extent>132 KBytes</extent>
+         <pubStmt>
+            <date isodate="2022-10-06" type="encoding-date">2022-10-06</date>
+            <Address>
+               <addrLine>
+                  <geogName>Glasgow</geogName>
+               </addrLine>
+               <addrLine>
+                  <geogName>United Kingdom</geogName>
+               </addrLine>
+            </Address>
+         </pubStmt>
+         <castList>Performed by all 6 queens - Catherine of Aragon, Anne Boleyn, Jane Seymour, Anna of Cleves, Katherine Howard and Catherine Parr </castList>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-144mojz">
+         <appInfo xml:id="appinfo-cxsdib">
+            <application xml:id="application-1pop5p6" isodate="2022-12-10T17:16:02" version="3.14.0-dev-ca26284">
+               <name xml:id="name-1gadwhd">Verovio</name>
+               <p xml:id="p-r01wai">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m1rukh3o">
+            <score xml:id="sjn0inj">
+               <scoreDef xml:id="s1rkttdl">
+                  <staffGrp xml:id="s138yhcj" />
+               </scoreDef>
+               <section xml:id="s1dd7fim" />
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
